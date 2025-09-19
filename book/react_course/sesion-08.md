@@ -1,5 +1,5 @@
 (sesion08)=
-# Sesion 8 - Componentes avanzados (3h)
+# Sesion 8 - Componentes avanzados
 
 ## Objetivos
 - Compartir estado entre componentes mediante el patron de lifting state up.

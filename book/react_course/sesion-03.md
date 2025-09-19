@@ -1,5 +1,5 @@
 (sesion03)=
-# Sesion 3 - Estado y eventos (3h)
+# Sesion 3 - Estado y eventos
 
 ## Objetivos
 - Gestionar estado local con el hook `useState` y comprender cuando almacenarlo.

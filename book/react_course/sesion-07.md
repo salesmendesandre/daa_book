@@ -1,5 +1,5 @@
 (sesion07)=
-# Sesion 7 - Estilos en React (3h)
+# Sesion 7 - Estilos en React
 
 ## Objetivos
 - Revisar las opciones para aplicar estilos en aplicaciones React.

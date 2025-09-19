@@ -1,5 +1,5 @@
 (sesion05)=
-# Sesion 5 - Formularios (3h)
+# Sesion 5 - Formularios
 
 ## Objetivos
 - Diferenciar entre inputs controlados y no controlados.

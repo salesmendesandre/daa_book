@@ -1,5 +1,5 @@
 (sesion09)=
-# Sesion 9 - Ruteo con React Router (3h)
+# Sesion 9 - Ruteo con React Router
 
 ## Objetivos
 - Configurar React Router desde cero en un proyecto existente.

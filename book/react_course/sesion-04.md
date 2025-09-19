@@ -1,5 +1,5 @@
 (sesion04)=
-# Sesion 4 - Listas y claves (3h)
+# Sesion 4 - Listas y claves
 
 ## Objetivos
 - Renderizar colecciones de datos de forma eficiente con `Array.prototype.map`.

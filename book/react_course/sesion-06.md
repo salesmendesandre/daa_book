@@ -1,5 +1,5 @@
 (sesion06)=
-# Sesion 6 - Ciclo de vida y useEffect (3h)
+# Sesion 6 - Ciclo de vida y useEffect
 
 ## Objetivos
 - Relacionar el ciclo de vida clasico con los efectos en componentes funcionales.

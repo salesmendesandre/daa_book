@@ -1,7 +1,7 @@
 (intro)=
 # Curso intensivo de React
 
-Bienvenido a este libro de referencia para un bootcamp practico de React. Las sesiones estan pensadas para grupos principiantes con experiencia basica en JavaScript moderno y se distribuyen en bloques de 3 horas. Cada capitulo resume los objetivos, contenidos y actividades principales de una sesion con enlaces de apoyo para profundizar.
+Bienvenido a este libro de referencia para un bootcamp practico de React. Las sesiones estan pensadas para grupos principiantes con experiencia basica en JavaScript moderno. Cada capitulo resume los objetivos, contenidos y actividades principales de una sesion con enlaces de apoyo para profundizar.
 
 ## Como usar este material
 - Revisa cada sesion antes de impartirla para adaptar ejemplos al nivel del grupo.
@@ -11,16 +11,16 @@ Bienvenido a este libro de referencia para un bootcamp practico de React. Las se
 
 ## Agenda del curso
 
-| Sesion | Tema | Duracion | Producto clave |
-| --- | --- | --- | --- |
-| 1 | Introduccion y entorno | 3h | Proyecto "Hello World" en React |
-| 2 | Componentes y props | 3h | Tarjeta de usuario reutilizable |
-| 3 | Estado y eventos | 3h | Contador interactivo con renderizado condicional |
-| 4 | Listas y claves | 3h | Lista de tareas con acciones basicas |
-| 5 | Formularios | 3h | Formulario de registro controlado |
-| 6 | Ciclo de vida y useEffect | 3h | Consumo de API publica con estados de carga |
-| 7 | Estilos en React | 3h | Version estilizada de la app de tareas |
-| 8 | Componentes avanzados | 3h | Carrito de compras basico |
-| 9 | Ruteo con React Router | 3h | SPA con paginas de inicio, productos y contacto |
+| Sesion | Tema | Producto clave |
+| --- | --- | --- |
+| 1 | Introduccion y entorno | Proyecto "Hello World" en React |
+| 2 | Componentes y props | Tarjeta de usuario reutilizable |
+| 3 | Estado y eventos | Contador interactivo con renderizado condicional |
+| 4 | Listas y claves | Lista de tareas con acciones basicas |
+| 5 | Formularios | Formulario de registro controlado |
+| 6 | Ciclo de vida y useEffect | Consumo de API publica con estados de carga |
+| 7 | Estilos en React | Version estilizada de la app de tareas |
+| 8 | Componentes avanzados | Carrito de compras basico |
+| 9 | Ruteo con React Router | SPA con paginas de inicio, productos y contacto |
 
 Cada capitulo incluye una seccion de recursos recomendados para ampliar la teoria o preparar material adicional.

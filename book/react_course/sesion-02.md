@@ -1,5 +1,5 @@
 (sesion02)=
-# Sesion 2 - Componentes y Props (3h)
+# Sesion 2 - Componentes y Props
 
 ## Objetivos
 - Crear componentes funcionales reutilizables y comprender su ciclo de vida basico.
